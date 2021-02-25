@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://i.giphy.com/media/POU01YSFVn8zK/giphy.webp" width="257px">
+<p align="center">
+  <img src="https://i.giphy.com/media/POU01YSFVn8zK/giphy.webp" width="300px">
+</p>
 
 My name is Juanma. I am a biologist 🌱 and biotechnologist 🔬 working as a software developer 💻 in the North of Spain. 
 
